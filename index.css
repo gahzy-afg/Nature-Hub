@@ -79,7 +79,7 @@ body {
   display: flex;
   /*justify-content: center;*/
   align-items: center;
-  background-image: url(bg.home2.jpg);
+  background-image: url('bg.home2.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
